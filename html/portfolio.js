@@ -44,7 +44,7 @@ let projects = [
     techStack: "HTML/CSS",
     description: "This is a slide for testimonials that slides automatically",
     githubURL: "https://github.com/Khanya45/python-sum",
-    liveProjectURL: "https://replit.com/join/kofcaemt-khanya45",
+    liveProjectURL: "https://my-testimonial-slides.netlify.app/",
   },
   {
     imgURL: "/images/timeline.png",
