@@ -64,7 +64,7 @@ let projects = [
     description:
       "The program computes the mean, standard deviation, and variance of a given array and displays the data in a form of a graph",
     githubURL: "https://github.com/Khanya45/scatterplots_graphs",
-    liveProjectURL: "https://replit.com/join/kofcaemt-khanya45",
+    liveProjectURL: "https://replit.com/@Khanya45/scatterplotsgraphs",
   },
   {
     imgURL: "/images/calculator.png",
