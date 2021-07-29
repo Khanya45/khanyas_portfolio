@@ -63,7 +63,7 @@ let projects = [
     techStack: "Python",
     description:
       "The program computes the mean, standard deviation, and variance of a given array and displays the data in a form of a graph",
-    githubURL: "https://github.com/Khanya45/python-sum",
+    githubURL: "https://github.com/Khanya45/scatterplots_graphs",
     liveProjectURL: "https://replit.com/join/kofcaemt-khanya45",
   },
   {
