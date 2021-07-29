@@ -57,7 +57,7 @@ let projects = [
     liveProjectURL: "https://quirky-easley-d9dfc6.netlify.app/",
   },
   {
-    imgURL: "/images/graphs.png",
+    imgURL: "/images/soupGraph.png",
     imgALT: "My Project 1",
     title: "Graphs",
     techStack: "Python",
